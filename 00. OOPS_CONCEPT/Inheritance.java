@@ -14,6 +14,7 @@ that are specific to them. Although objects of these child classes can
 access or call parent class characters(variables) and behaviours(methods).
 Hence providing code reusability.
 */
+
 class Car {
     protected String brand;
     protected String model;
